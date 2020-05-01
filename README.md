@@ -3,6 +3,28 @@
 
 ![spanner](./images/banner.png)
 
+## Technical Setup
+For now, you can set up the backend and frontend separately before we finalize the tech stack and *dockerize* everything.
+
+### Backend Setup
+`cd backend` 
+`yarn install`
+`yarn strapi dev`
+
+Runs the strapi headless CMS backend in development mode.<br />
+Open [http://localhost:1337](http://localhost:1337) to view it in the browser.
+
+### Frontend Setup
+`cd backend` 
+`yarn install`
+`yarn strapi dev`
+
+Runs the React frontend  in development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+
+## Description
+
 Spring is a time for change. It is a time for new projects. For self-discovery. For planting seeds for others.
 
 And despite the global COVID-19 crisis causing massive shutdowns and quarantining, we are springing forward like never before. Springing into public health projects and mutual aid groups but also creative writing collaborations and Zoom bands and [sourdough bread making](https://www.stanforddaily.com/2020/04/08/sourdough-nt-you-worry-how-to-bake-the-most-of-shelter-in-place/).
