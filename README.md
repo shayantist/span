@@ -42,6 +42,4 @@ We are currently building and piloting the platform with Helpful Engineering, a 
 
 Start or join projects [here](https://docs.google.com/forms/d/e/1FAIpQLSf_Hu6VqczEkODq3EPuB4eMyibtIDn7CsySrQHOze6uNjVl9Q/viewform) or read our launch letter [here](https://docs.google.com/document/d/1Ubngkv0Yc_x3egMmQEVoorv59wuIXjuftLFkarryuVw/edit?usp=sharing).
 
-##[SIGN UP HERE IF INTERESTED!]()
-
 We encourage you to share this message with friends, family, friends at universities, and anyone interested in mutual aid and quarantine projects. If you have a question, concern, or uplifting video of celebrities singing John Lennon tunes, please email us at span.teams@gmail.com.
